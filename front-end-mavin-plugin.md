@@ -116,4 +116,6 @@ mvn package
 jar -jar name-of-your-apps-jar-file-0.0.1.jar
 ```
 
+or just run your IntelliJ IDEA
+
 - check localhost:8080
