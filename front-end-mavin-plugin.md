@@ -113,7 +113,7 @@ mvn package
 - go to target directory and run the below commands
 
 ```zsh
-jar -jar name-of-your-apps-jar-file-0.0.1.jar
+jar -jar target/name-of-your-apps-jar-file-0.0.1.jar
 ```
 
 or just run your IntelliJ IDEA
